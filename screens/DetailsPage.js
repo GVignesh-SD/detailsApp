@@ -1,8 +1,7 @@
-import { StyleSheet, Text, View, Image } from "react-native";
+import { StyleSheet, Text, View, Image,ScrollView } from "react-native";
 import React from "react";
 import { useRoute } from "@react-navigation/native";
 import { SafeAreaView } from "react-native-safe-area-context";
-import { ScrollView } from "react-native-gesture-handler";
 import { Video } from "expo-av";
 
 const DetailsPage = () => {

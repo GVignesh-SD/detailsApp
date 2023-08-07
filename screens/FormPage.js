@@ -8,7 +8,6 @@ import {
   Modal,
   Image,
   Alert,
-  ActivityIndicator
 } from "react-native";
 import { FontAwesome } from '@expo/vector-icons';
 import { SafeAreaView } from "react-native-safe-area-context";
