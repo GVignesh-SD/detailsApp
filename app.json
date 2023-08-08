@@ -22,7 +22,12 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.gvignesh2005.app"
+      "package": "com.gvignesh2005.app",
+      "permissions": [
+        "CAMERA",
+        "WRITE_EXTERNAL_STORAGE"
+      ]
+
     },
     "web": {
       "favicon": "./assets/favicon.png"
